@@ -2,7 +2,7 @@
 # Desafío IA: Transformando un Proceso Tradicional
 
 ## 1. Introducción
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso Chatbot, muy común en la industria de las flores.
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso Chatbot, muy común en la industria de paginas web de  flores.
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
@@ -11,7 +11,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 **Problemas o limitaciones del método tradicional:**  
 - Lenta respuesta a los clientes.  
 - Alto costo operativo.  
-- Es un sistema muy monotono 
+- Es un sistema muy monotono.
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
